@@ -5,7 +5,6 @@ ClrHome
 Disp "You start with 100.
 Pause "Press [enter]
 ClrHome 
-Goto M
 Lbl M
 Menu("         Roulette         ","Check Money",1,"Place a Bet",2,"Change Bet",3,"Spin the Wheel,",4,"Quit",Q
 
