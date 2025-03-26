@@ -14,7 +14,6 @@ Disp "You have $
 Output(1,12,M
 Pause "Press [enter] to return.
 Goto M
-
 Lbl 2
 ClrHome
 Disp "You can bet up to 10 less
